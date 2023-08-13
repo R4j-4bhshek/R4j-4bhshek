@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAJ_ABHISHEK_PANDEY
 - 👀 I’m interested in if(NoSQL):print(python) || cout<<("C++") ||
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on on new langs and algos to learn and grow
 - 📫 How to reach me (mail:userabhishek02@gm)
 
