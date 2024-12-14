@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAJ_ABHISHEK_PANDEY
-- 👀 I’m interested in Data Anlytics.
+- 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning Tableau and power BI together
 - 💞️ I’m looking to collaborate on on new Projects to learn and grow.
 - My favourite Data anlytics creators are Codebasic and Rishabh Mishra .
